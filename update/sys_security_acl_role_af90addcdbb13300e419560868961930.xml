@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-29 16:17:48</sys_created_on>
+        <sys_id>af90addcdbb13300e419560868961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_317751_household.tasks_user</sys_name>
+        <sys_package display_value="HouseHold" source="x_317751_household">3bbae818db313300e419560868961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HouseHold">3bbae818db313300e419560868961904</sys_scope>
+        <sys_security_acl display_value="x_317751_household_tasks.state">2b90addcdbb13300e419560868961930</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_af90addcdbb13300e419560868961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-29 16:17:48</sys_updated_on>
+        <sys_user_role display_value="x_317751_household.tasks_user" name="x_317751_household.tasks_user">c6cb68d8db313300e41956086896190f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

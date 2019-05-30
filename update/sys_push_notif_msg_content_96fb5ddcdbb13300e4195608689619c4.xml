@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="INSERT_OR_UPDATE">
+        <name>HouseHold Push Notification Message Cont</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+
+ var json = {};
+
+ // build JSON sent by push here
+
+ return json;
+
+})(current, message, attributes);]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-29 15:57:57</sys_created_on>
+        <sys_id>96fb5ddcdbb13300e4195608689619c4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>HouseHold Push Notification Message Cont</sys_name>
+        <sys_package display_value="HouseHold" source="x_317751_household">3bbae818db313300e419560868961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HouseHold">3bbae818db313300e419560868961904</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_96fb5ddcdbb13300e4195608689619c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-29 16:25:00</sys_updated_on>
+    </sys_push_notif_msg_content>
+</record_update>

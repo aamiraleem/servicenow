@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="tasks" max_length="40" name="x_317751_household_tasks" sizeclass="7" type="collection">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Do the laundry" sequence="0"/>
+                <element inactive_on_update="false" label="Empty Dishwasher" sequence="1" value="Empty Dishwasher"/>
+                <element inactive_on_update="false" label="Take out trash" sequence="2" value="Take out trash"/>
+                <element inactive_on_update="false" label="Vacuum Living Room" sequence="3" value="Vacuum Living Room"/>
+            </choice>
+        </element>
+    </element>
+</database>
